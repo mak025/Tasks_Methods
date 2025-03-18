@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DNA</name>
+    </assembly>
+    <members>
+        <member name="T:DNA.Program.bases">
+            <summary>
+             Enum created which includes the four base elements in a DNA string.
+             This is to be used later in the two arrays we must compare with
+             one another to find the hamming-distance.
+            </summary>
+        </member>
+        <member name="M:DNA.Program.HammingDistance(DNA.Program.bases[],DNA.Program.bases[])">
+            <summary>
+            initializes a counter for meassuring the hamming distance
+            </summary>
+        </member>
+        <member name="M:DNA.Program.Main(System.String[])">
+            <summary>
+            Two arrays are created. One being the "Original (array1)" which the clone (array2) needs to be compared with.
+            By comparing the clone with the Original we will find the hamming-distance.
+            </summary>
+            <param name="array1">The first DNA sequence eg. the original</param>
+            <param name="array2">The clone which is to be compared with the original</param>
+            
+            <summary>
+            Calls the HammingDistance method to calculate the difference between two DNA sequences.
+            Stores the result in the 'distance' variable.
+            </summary>
+            
+            <summary>
+            Outputs the calculated Hamming Distance to the console, indicating how many positions differ between the two DNA sequences.
+            </summary>
+        </member>
+    </members>
+</doc>

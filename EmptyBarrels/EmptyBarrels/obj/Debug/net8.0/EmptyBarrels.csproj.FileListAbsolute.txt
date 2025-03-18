@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\bin\Debug\net8.0\EmptyBarrels.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\bin\Debug\net8.0\EmptyBarrels.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\bin\Debug\net8.0\EmptyBarrels.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\bin\Debug\net8.0\EmptyBarrels.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\bin\Debug\net8.0\EmptyBarrels.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\refint\EmptyBarrels.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\EmptyBarrels.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\EmptyBarrels\EmptyBarrels\obj\Debug\net8.0\ref\EmptyBarrels.dll

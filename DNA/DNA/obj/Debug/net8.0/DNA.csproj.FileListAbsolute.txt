@@ -1,0 +1,17 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\bin\Debug\net8.0\DNA.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\bin\Debug\net8.0\DNA.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\bin\Debug\net8.0\DNA.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\bin\Debug\net8.0\DNA.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\bin\Debug\net8.0\DNA.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\bin\Debug\net8.0\DNA.xml
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\refint\DNA.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.xml
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\DNA.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\DNA\DNA\obj\Debug\net8.0\ref\DNA.dll
