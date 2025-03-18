@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\bin\Debug\net8.0\SpaceShip.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\bin\Debug\net8.0\SpaceShip.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\bin\Debug\net8.0\SpaceShip.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\bin\Debug\net8.0\SpaceShip.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\bin\Debug\net8.0\SpaceShip.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\refint\SpaceShip.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\SpaceShip.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Methods\SpaceShip\SpaceShip\obj\Debug\net8.0\ref\SpaceShip.dll
